@@ -90,6 +90,12 @@
                     </p>
                 </a>
             </div>
+            <div class="card-name">
+                <p class="text-center" style="color: #ffffff">
+                    Nama: Muhammad Ananda Zulfikar Alfarizi <br/>
+                    Kelas: XI RPL 1
+                </p>
+            </div>
         </div>
     </section>
 @endsection
